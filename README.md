@@ -1,2 +1,2 @@
-# taskyify
+# taskify
 #reactJs #fullstack 
